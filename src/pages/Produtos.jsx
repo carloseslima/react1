@@ -6,6 +6,7 @@ const Produtos = () => {
                 <li>Produto 1</li>
                 <li>Produto 2</li>
                 <li>Produto 3</li>
+                <li>Produto 4</li>
             </ul>
         </>
     );
